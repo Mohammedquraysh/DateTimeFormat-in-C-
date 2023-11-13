@@ -1,0 +1,15 @@
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/bin/Debug/net7.0/DateAndTimeFormat
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/bin/Debug/net7.0/DateAndTimeFormat.deps.json
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/bin/Debug/net7.0/DateAndTimeFormat.runtimeconfig.json
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/bin/Debug/net7.0/DateAndTimeFormat.dll
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/bin/Debug/net7.0/DateAndTimeFormat.pdb
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.csproj.AssemblyReference.cache
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.AssemblyInfoInputs.cache
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.AssemblyInfo.cs
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.csproj.CoreCompileInputs.cache
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.dll
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/refint/DateAndTimeFormat.dll
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.pdb
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/DateAndTimeFormat.genruntimeconfig.cache
+/Users/user/Projects/DateAndTimeFormat/DateAndTimeFormat/obj/Debug/net7.0/ref/DateAndTimeFormat.dll
